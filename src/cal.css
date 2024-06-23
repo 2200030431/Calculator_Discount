@@ -1,0 +1,74 @@
+h2{
+
+    color: white;
+    font-size: 42px;
+}
+
+h4{
+    margin-top: 190px;
+    margin-left: 260px;
+    font-size: 45px;
+    color: #8E44AD;
+}
+
+h5{
+    text-align: center;
+   font-size: 28px;
+  margin-bottom: 40px;
+}
+
+p{
+    font-size: 23px;
+    margin-top: -40px;
+    margin-left: 265px;
+    color: #A569BD;
+}
+
+nav{
+    background-color : #0096FF;
+    width : 43%;
+    padding: 0px ;
+    text-decoration: none;
+    text-align: center;
+    height : 70px;
+    margin-top: 40px;
+    margin-left: 420px;
+    box-shadow: 12px 16px 20px 8px #85C1E9;
+    
+}
+
+.card{
+    height: 370px;
+    width: 400px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    background-color: #fff;
+    margin-left: 800px;
+    margin-top: -250px;
+}
+
+input{
+    width: 80%;
+padding: 10px;
+margin: 10px 0;
+box-sizing: border-box;
+border: 1px solid #ccc;
+border-radius: 4px;
+margin-left: 30px;
+margin-top: 10px;
+}
+:focus {
+    outline: none;
+    border-color: #1877f2;}
+
+hr{
+    margin: 20px 15px;
+border: none;
+height: 1px;
+background-color: #ccc;
+}
+
+
+  
+  
+  
